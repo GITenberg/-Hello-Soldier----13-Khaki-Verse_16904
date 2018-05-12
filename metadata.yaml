@@ -1,0 +1,29 @@
+_repo: -Hello-Soldier----13-Khaki-Verse_16904
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dyson, Edward
+    alias: Dyson, Edward George
+    birthdate: 1865
+    deathdate: 1931
+    gutenberg_agent_id: '7007'
+    url: http://www.gutenberg.org/2009/agents/7007
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Dyson
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcc 'PR'
+title: "'Hello, Soldier!'\r\nKhaki Verse"
+url: http://www.gutenberg.org/ebooks/16904
